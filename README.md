@@ -1,6 +1,6 @@
 # Treinamaneto-de-HTML-
 
-HTML
+
 
 # <html></html> Inicia/termina um documento em HTML
 

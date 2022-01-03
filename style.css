@@ -1,0 +1,18 @@
+body{
+text-align: center;
+text-shadow: 2px 3px 4px ;
+color: blue;
+}
+.box1{
+text-align: center;
+text-shadow: 2px 3px 4px #00ffff;
+color: chartreuse;
+background-color: blueviolet;
+}
+li{
+box-sizing: border-box;
+text-align: center;
+text-shadow: 2px 3px 4px #00ffff;
+font-size: 50px;
+
+}
