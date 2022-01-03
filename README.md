@@ -17,3 +17,10 @@
 - <title></title>
 
 ## Coloca o nome da página na barra de título da janela
+
+# Criação de uma Table.
+
+| Primeiro Cabeçalho | Segundo Cabeçalho |
+| ------------------| -------------------|
+| HTML              |  1° Célula         |
+|                   |                    |
