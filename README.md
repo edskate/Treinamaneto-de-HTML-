@@ -2,6 +2,8 @@
 
 HTML
 
+# <html></html> Inicia/termina um documento em HTML
+
 - Os Comandos do HTML
 
 # LISTA DAS TAGS MAIS USADAS NA LINGUAGEM HTML
